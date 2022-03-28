@@ -1,5 +1,4 @@
-﻿
-while (true)
+﻿while (true)
 {
     Console.WriteLine("Bitte gib dein Körpergewicht ein: ");
     double kilogramm = double.Parse(Console.ReadLine());
